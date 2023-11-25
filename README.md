@@ -1,6 +1,8 @@
 # flutter_application_enrico_api
 
-A new Flutter project.
+![Captura de tela 2023-11-25 195048](https://github.com/enricofs/crud-flutter-api/assets/73853747/89c7d9b6-186f-4ca6-9930-9975f8bda0fa)
+
+![Captura de tela 2023-11-25 195107](https://github.com/enricofs/crud-flutter-api/assets/73853747/dada0cff-54d4-416b-937d-fba537abd8e1)
 
 ## Getting Started
 
